@@ -1,2 +1,2 @@
 # random_project
-c programming
+c programming and other types of programming of random projects
